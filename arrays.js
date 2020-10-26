@@ -6,6 +6,7 @@ var chocolateBars = [
 ]
 var add = [
   'element',
+  'array'
 
 ]
 add.unshift ("element")
