@@ -4,9 +4,9 @@ var chocolateBars = [
   'kitkat',
   'skittles'
 ]
-var add = [
+var addElementToBeginngingOfArray = [
   'element',
   'array'
 
 ]
-add.unshift ("element")
+addElementToBeginningOfArray.unshift ("element")
