@@ -4,9 +4,9 @@ var chocolateBars = [
   'kitkat',
   'skittles'
 ]
-var addElementToBeginngingOfArray = [
+var addElementToBeginningingOfArray = [
   'array',
-  'array'
+  'element'
 
 ]
 addElementToBeginningOfArray
